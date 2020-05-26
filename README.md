@@ -1,2 +1,1 @@
-# danny-manzietti
-personal site
+
